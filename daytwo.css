@@ -1,0 +1,72 @@
+.a{
+    background-color: aliceblue;
+    background-image: radial-gradient(#FFEBD4,#F7B5CA,#F7B5CA);
+    height: 10vh;
+}
+.bg{
+    background-color: antiquewhite;
+}
+b{
+    color: aliceblue;
+
+}
+h2{
+    font-style: oblique;
+    color: white;
+    text-transform: capitalize;
+    text-shadow: 4px 3px  3px #7A1CAC;
+    
+}
+main{
+    background-image: linear-gradient(#2c67f2,#62cff4);
+}
+
+p{  
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+}
+h1{
+    font-style: oblique;
+    color: white;
+    text-transform: capitalize;
+    text-shadow: 4px 3px  3px #7A1CAC;
+
+}
+
+.welcome{
+    font-style: oblique;
+    color: white;
+    text-transform: capitalize;
+    text-shadow: 4px 3px  3px #7A1CAC;
+    text-decoration: underline;
+}
+
+.image{
+    background-image: url(https://c8.alamy.com/comp/2H6CTYW/travel-lifestyle-header-banner-concept-vertical-collage-of-pictures-men-and-women-enjoying-summer-holidays-in-outdoors-traveler-life-of-happy-people-2H6CTYW.jpg);
+    height: 25vh;
+}
+.travel{
+    background-image: linear-gradient(#A7E6FF,#3ABEF9);
+    height: 5vh;
+}
+.sec1{
+    display: inline-block;
+    padding-left: 550px ;
+}
+.redone{
+    background-color: #3ABEF9;
+    width: 400px;
+    padding: 10px 5px 10px 5px;
+    margin-top: 20px;
+    border: 3px solid rgb(123, 82, 186);
+    text-align: center;
+}
+
+.imgswis{
+    width: 350px;
+}
+
+.content {
+    background-color: lightblue;
+}
